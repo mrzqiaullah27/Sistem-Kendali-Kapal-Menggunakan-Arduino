@@ -1,1 +1,1 @@
-# Sistem-Kendali-Kapal-Menggunakan-Arduino
+# Bagian penting dari kapal adalah sistem kendali kapal, yang bertanggung jawab untuk mengontrol pergerakan dan operasi kapal. Sistem ini terdiri dari berbagai sistem, perangkat lunak, dan perangkat keras yang bekerja sama untuk memastikan bahwa kapal dapat berlayar dengan aman, akurat, dan efisien.
